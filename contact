@@ -9,10 +9,10 @@
   },
   {
     "media": "WWW:",
-    "species" : "http://brcr.pl"
+    "info" : "http://brcr.pl"
   },
    {
     "media": "ADRES:",
-    "species" : "Zabrze ul. M.C Skłodowskiej 18/23"
+    "info" : "Zabrze ul. M.C Skłodowskiej 18/23"
   }
 ]
