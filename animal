@@ -1,26 +1,16 @@
 [
   {
     "name": "dupa",
-    "species" : "dupa",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+    "species" : "dupa"
     }
   },
   {
     "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
+    "species" : "dog"
     }
   },
   {
     "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
+    "species" : "cat"
   }
 ]
